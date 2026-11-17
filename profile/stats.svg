@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Thomas Spalinger&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 171, Total Contributions: 727, Total Commits  : 1021, Total PRs: 109, Total PRs Merged: 91, Merged PRs Percentage: 83.49, Total PRs Reviewed: 0, Total Issues: 117, Total Discussions Started: 7, Total Discussions Answered: 11, PRs Created: 108, PRs Commented: 34, PRs Reviewed: 3, Issues Created: 116, Issues Commented: 160, Contributed to (last year): 19, Contributed to (all time): 130</desc>
+        <desc id="descId">Total Stars Earned: 184, Total Contributions: 728, Total Commits  : 1026, Total PRs: 109, Total PRs Merged: 92, Merged PRs Percentage: 84.40, Total PRs Reviewed: 2, Total Issues: 117, Total Discussions Started: 7, Total Discussions Answered: 11, PRs Created: 108, PRs Commented: 36, PRs Reviewed: 5, Issues Created: 116, Issues Commented: 160, Contributed to (last year): 19, Contributed to (all time): 129</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 82.20286358397435;
+        stroke-dashoffset: 70.60648561869723;
       }
     }
   
@@ -135,7 +135,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 82.20286358397435;
+        stroke-dashoffset: 70.60648561869723;
       }
     }
   
@@ -206,7 +206,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >171</text>
+      >184</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -221,7 +221,7 @@
         x="224.01"
         y="12.5"
         data-testid="contributions"
-      >727</text>
+      >728</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -236,7 +236,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >1021</text>
+      >1026</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -266,7 +266,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >91</text>
+      >92</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -281,7 +281,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >83.49 %</text>
+      >84.40 %</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -296,7 +296,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >0</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
@@ -371,7 +371,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >34</text></a>
+      >36</text></a>
     </g>
   </g><g transform="translate(0, 300)">
     <g class="stagger" style="animation-delay: 2250ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3Aspali+-author%3Aspali&amp;type=pullrequests">
@@ -386,7 +386,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_reviewed"
-      >3</text></a>
+      >5</text></a>
     </g>
   </g><g transform="translate(0, 325)">
     <g class="stagger" style="animation-delay: 2400ms" transform="translate(25, 0)"><a href="https://github.com/search?q=author%3Aspali&amp;type=issues">
@@ -446,7 +446,7 @@
         x="224.01"
         y="12.5"
         data-testid="all_time_contribs"
-      >130</text>
+      >129</text>
     </g>
   </g>
     </svg>
